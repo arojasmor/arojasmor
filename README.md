@@ -30,7 +30,7 @@ Cuento con más de 10 años de experiencia realizando reportes y análisis, en b
 <a href="mailto:alexrojasmoreno@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-alexrojasmoreno@outlook.com-blue?style=flat&logo=microsoft-outlook"></a>
 </p>
 
-⭐️ Te invito a revisar mi [Portafolio de proyectos](https://github.com/arojasmor/data-science-projects?tab=readme-ov-file#data-science-projects)
+⭐️ Te invito a revisar mi [Portafolio de proyectos](https://github.com/arojasmor/data-science-projects/tree/main#data-science-projects)
 <!--
 **oiko79/oiko79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
